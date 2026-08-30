@@ -28,4 +28,38 @@ Author
 Abdulrahman Al-Haritani
 GitHub: abdulrahamanharitani-ai
 
+## 📸 Screenshots
+
+### Main Menu
+![Main Menu](Main%20Menu%20Screen.png)
+
+### Add New Client
+![Add New Client](Add%20New%20Client%20Screen.png)
+
+### Client List
+![Client List](Client%20List%20with%20Clilents.png)
+
+### Find Client
+![Find Client](Find%20Client%20Screen.png)
+
+### Update Client
+![Update Client](Update%20Client%20Screen.png)
+
+### Delete Client
+![Delete Client](Delete%20Client%20Screen.png)
+
+### Deposit
+![Deposit](Deposit%20Screen.png)
+
+### Withdraw
+![Withdraw](Withdraw%20Screen.png)
+
+### Total Balances
+![Total Balances](Total%20Balance.png)
+
+### Transactions Menu
+![Transactions Menu](Transactions%20Menu%20Screen.png)
+
+### Exit
+![Exit](Exit.png)
 
