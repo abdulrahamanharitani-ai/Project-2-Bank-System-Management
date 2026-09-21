@@ -63,3 +63,11 @@ GitHub: abdulrahamanharitani-ai
 ### Exit
 ![Exit](Exit.png)
 
+---
+
+## Related Projects
+
+This project is part of a series:
+- [Project 1 - Bank System Management](https://github.com/abdulrahamanharitani-ai/Project-1-Bank-System-Management) — Clients List only
+- **Project 2 - Bank System Management** — Clients + Transactions ← *You are here*
+- [Project 3 - Bank System Management](https://github.com/abdulrahamanharitani-ai/Project-3-Bank-System-Management) — Full System with Login & Permissions
